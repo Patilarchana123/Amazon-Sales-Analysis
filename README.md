@@ -15,9 +15,16 @@ Throughout the project, I delved deeper into shipment statuses to identify proce
 ## Tools
 - Excel - Data Cleaning
 - Power BI- Creating Dashboards, Data Visualization
+- Amazon S3- Stored raw sales data.
+- Snowflake- Created a stage to efficiently load and process data from S3.
 
 ## Data Pipeline
 ![Alt text](https://github.com/Patilarchana123/Amazon-Sales-Analysis/blob/main/Data%20Pipeline.png)
 
-# EDA
-![Alt text](https://github.com/Patilarchana123/Amazon-Sales-Analysis/blob/main/Amazon%20EDA.pdf)
+## Exploratory Data Analysis
+EDA involved exploring the sales data to answer key questions. This process includes data cleaning, summarization, and pattern discovery to gain insights and inform business decisions.
+
+## Dashboard
+![Alt text](https://github.com/Patilarchana123/Amazon-Sales-Analysis/blob/main/overview.png)
+![Alt text](https://github.com/Patilarchana123/Amazon-Sales-Analysis/blob/main/Products.png)
+![Alt text](https://github.com/Patilarchana123/Amazon-Sales-Analysis/blob/main/Product%20View.png)
