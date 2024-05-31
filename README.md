@@ -18,3 +18,6 @@ Throughout the project, I delved deeper into shipment statuses to identify proce
 
 ## Data Pipeline
 ![Alt text](https://github.com/Patilarchana123/Amazon-Sales-Analysis/blob/main/Data%20Pipeline.png)
+
+# EDA
+![Alt text](https://github.com/Patilarchana123/Amazon-Sales-Analysis/blob/main/Amazon%20EDA.pdf)
