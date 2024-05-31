@@ -26,5 +26,7 @@ EDA involved exploring the sales data to answer key questions. This process incl
 
 ## Dashboard
 ![Alt text](https://github.com/Patilarchana123/Amazon-Sales-Analysis/blob/main/overview.png)
+
 ![Alt text](https://github.com/Patilarchana123/Amazon-Sales-Analysis/blob/main/Products.png)
+
 ![Alt text](https://github.com/Patilarchana123/Amazon-Sales-Analysis/blob/main/Product%20View.png)
