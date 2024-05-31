@@ -17,3 +17,4 @@ Throughout the project, I delved deeper into shipment statuses to identify proce
 - Power BI- Creating Dashboards, Data Visualization
 
 ## Data Pipeline
+<img src="C:\Users\Admin\Downloads\Data Pipeline.png" alt="Alt text">
